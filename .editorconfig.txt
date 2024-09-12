@@ -1,0 +1,3 @@
+#Roslynator rules
+dotnet_diagnostic.RCS1001.severity = error
+dotnet_diagnostic.RCS1016.severity = warning
